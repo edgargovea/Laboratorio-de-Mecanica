@@ -4,6 +4,7 @@ Este repositorio contiene una colección de **notebooks de Jupyter** dedicados a
 El objetivo es aplicar métodos cuantitativos y estadísticos para interpretar resultados experimentales, validar leyes físicas y desarrollar habilidades de análisis de datos científicos.
 
 ---
+<img src="Figures/ajuste_l.png" width="450"> <img src="Figures/ajuste_L_inv.png" width="530">
 
 ## 📘 Contenido del Repositorio
 
