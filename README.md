@@ -1,4 +1,4 @@
-# Laboratorio de Mecánica Newtoniana
+# Analisis de Datos/ Laboratorio de Mecánica Newtoniana
 
 Este repositorio contiene una colección de **notebooks de Jupyter** dedicados al análisis de datos experimentales obtenidos en diversas **prácticas de laboratorio de Mecánica Clásica**.
 El objetivo es aplicar métodos cuantitativos y estadísticos para interpretar resultados experimentales, validar leyes físicas y desarrollar habilidades de análisis de datos científicos.
