@@ -1,4 +1,4 @@
-# Analisis de Datos/ Laboratorio de Mecánica Newtoniana
+# Analisis Estadistico de Datos en Mecánica Newtoniana
 
 Este repositorio contiene una colección de **notebooks de Jupyter** dedicados al análisis de datos experimentales obtenidos en diversas **prácticas de laboratorio de Mecánica Clásica**.
 El objetivo es aplicar métodos cuantitativos y estadísticos para interpretar resultados experimentales, validar leyes físicas y desarrollar habilidades de análisis de datos científicos.
@@ -6,7 +6,7 @@ El objetivo es aplicar métodos cuantitativos y estadísticos para interpretar r
 ---
 <img src="Figures/ajuste_l.png" width="450"> <img src="Figures/ajuste_L_inv.png" width="530">
 
-## 📘 Contenido del Repositorio
+##  Contenido del Repositorio
 
 Cada notebook aborda una práctica específica, incluyendo el tratamiento de datos, representación gráfica, ajuste de curvas y análisis de errores.
 
@@ -22,10 +22,9 @@ Cada notebook aborda una práctica específica, incluyendo el tratamiento de dat
 | **Regresiones Lineales y Ajuste de Curvas**   | Uso de métodos de ajuste lineal y no lineal a datos experimentales.                         |
 | **Barras de Error e Intervalos de Confianza** | Representación gráfica de la incertidumbre experimental.                                    |
 
-
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 Para ejecutar los notebooks, asegúrate de tener instalado:
 
@@ -38,5 +37,4 @@ matplotlib
 scipy
 seaborn
 ```
-
 ---
